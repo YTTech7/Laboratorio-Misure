@@ -8,6 +8,7 @@
 # - elaborazione immagini
 # - visualizzazione finestre
 # - disegno di testi e figure
+# - prova GITHUB
 #
 # mediapipe:
 # libreria Google per il tracciamento delle mani.
